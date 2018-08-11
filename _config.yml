@@ -1,1 +1,5 @@
 theme: jekyll-theme-minimal
+#repository: pthurston.github.io
+repository: pthurston/pthurston.github.io
+title: Paul Thurston
+description: "Software Engineer, Problem Solver and Beer Enthusiast."
